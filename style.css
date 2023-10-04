@@ -1,0 +1,20 @@
+body {
+    background: url("https://courses.ics.hawaii.edu/ics314f23/morea/ui-frameworks/wod-buzzs-background.jpg");
+    --bs-light-rgb: rgb(48, 73, 95);
+}
+
+.white {
+    color: white;
+}
+
+.white-bg {
+    background: white;
+}
+
+.blue {
+    background: #445568;
+}
+
+#young-font {
+    font-family: 'Young Serif', serif;
+}
