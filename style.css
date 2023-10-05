@@ -1,5 +1,5 @@
 body {
-    background: url("https://courses.ics.hawaii.edu/ics314f23/morea/ui-frameworks/wod-buzzs-background.jpg");
+    background: url("https://courses.ics.hawaii.edu/ics314f23/morea/ui-frameworks/wod-buzzs-background.jpg") no-repeat center fixed;
     --bs-light-rgb: rgb(48, 73, 95);
 }
 
